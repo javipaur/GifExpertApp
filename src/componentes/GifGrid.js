@@ -20,6 +20,7 @@ export const GifGrid = ({category}) => {
                    {...img}
                    />     
                ))
+               
            }
         
         </div>
