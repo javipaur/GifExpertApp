@@ -21,6 +21,7 @@ export const GifGrid = ({category}) => {
                    />     
                ))
                
+
            }
         
         </div>
